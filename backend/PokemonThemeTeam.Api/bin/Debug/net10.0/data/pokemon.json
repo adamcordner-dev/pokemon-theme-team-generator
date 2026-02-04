@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-03T00:00:00Z",
+  "pokemon": [
+    {
+      "key": "gengar",
+      "dex": { "national": 94, "generation": 1 },
+      "names": { "default": "Gengar" },
+      "species": { "key": "gengar", "id": 94 },
+      "form": {
+        "type": "base",
+        "isRegional": false,
+        "region": null,
+        "isMega": false,
+        "megaOfSpeciesKey": null,
+        "isGmax": false,
+        "gmaxOfSpeciesKey": null
+      },
+      "typing": { "types": ["ghost", "poison"], "primary": "ghost", "secondary": "poison" },
+      "flags": { "isLegendary": false, "isMythical": false, "isBaby": false },
+      "evolution": { "chainId": 1, "isUnevolved": false, "isFullyEvolved": true },
+      "art": {
+        "preferred": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+        "variants": {}
+      },
+      "tags": {
+        "derived": ["type:ghost", "type:poison", "gen:1", "fully-evolved"],
+        "textDerived": ["spooky", "shadow"],
+        "curated": ["spooky", "ghost"]
+      },
+      "search": { "aliases": [] }
+    },
+
+    {
+      "key": "houndoom",
+      "dex": { "national": 229, "generation": 2 },
+      "names": { "default": "Houndoom" },
+      "species": { "key": "houndoom", "id": 229 },
+      "form": {
+        "type": "base",
+        "isRegional": false,
+        "region": null,
+        "isMega": false,
+        "megaOfSpeciesKey": null,
+        "isGmax": false,
+        "gmaxOfSpeciesKey": null
+      },
+      "typing": { "types": ["dark", "fire"], "primary": "dark", "secondary": "fire" },
+      "flags": { "isLegendary": false, "isMythical": false, "isBaby": false },
+      "evolution": { "chainId": 2, "isUnevolved": false, "isFullyEvolved": true },
+      "art": {
+        "preferred": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+        "variants": {}
+      },
+      "tags": {
+        "derived": ["type:dark", "type:fire", "gen:2", "fully-evolved"],
+        "textDerived": ["dog", "hellhound"],
+        "curated": ["dog", "canine", "spooky"]
+      },
+      "search": { "aliases": ["hellhound"] }
+    },
+
+    {
+      "key": "mimikyu",
+      "dex": { "national": 778, "generation": 7 },
+      "names": { "default": "Mimikyu" },
+      "species": { "key": "mimikyu", "id": 778 },
+      "form": {
+        "type": "base",
+        "isRegional": false,
+        "region": null,
+        "isMega": false,
+        "megaOfSpeciesKey": null,
+        "isGmax": false,
+        "gmaxOfSpeciesKey": null
+      },
+      "typing": { "types": ["ghost", "fairy"], "primary": "ghost", "secondary": "fairy" },
+      "flags": { "isLegendary": false, "isMythical": false, "isBaby": false },
+      "evolution": { "chainId": 3, "isUnevolved": true, "isFullyEvolved": false },
+      "art": {
+        "preferred": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+        "variants": {}
+      },
+      "tags": {
+        "derived": ["type:ghost", "type:fairy", "gen:7"],
+        "textDerived": ["creepy", "costume"],
+        "curated": ["spooky", "cute"]
+      },
+      "search": { "aliases": [] }
+    },
+
+    {
+      "key": "lucario",
+      "dex": { "national": 448, "generation": 4 },
+      "names": { "default": "Lucario" },
+      "species": { "key": "lucario", "id": 448 },
+      "form": {
+        "type": "base",
+        "isRegional": false,
+        "region": null,
+        "isMega": false,
+        "megaOfSpeciesKey": null,
+        "isGmax": false,
+        "gmaxOfSpeciesKey": null
+      },
+      "typing": { "types": ["fighting", "steel"], "primary": "fighting", "secondary": "steel" },
+      "flags": { "isLegendary": false, "isMythical": false, "isBaby": false },
+      "evolution": { "chainId": 4, "isUnevolved": false, "isFullyEvolved": true },
+      "art": {
+        "preferred": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+        "variants": {}
+      },
+      "tags": {
+        "derived": ["type:fighting", "type:steel", "gen:4"],
+        "textDerived": ["aura"],
+        "curated": ["dog", "martial"]
+      },
+      "search": { "aliases": [] }
+    },
+
+    {
+      "key": "charizard-mega-x",
+      "dex": { "national": 6, "generation": 1 },
+      "names": { "default": "Mega Charizard X" },
+      "species": { "key": "charizard", "id": 6 },
+      "form": {
+        "type": "mega",
+        "isRegional": false,
+        "region": null,
+        "isMega": true,
+        "megaOfSpeciesKey": "charizard",
+        "isGmax": false,
+        "gmaxOfSpeciesKey": null
+      },
+      "typing": { "types": ["fire", "dragon"], "primary": "fire", "secondary": "dragon" },
+      "flags": { "isLegendary": false, "isMythical": false, "isBaby": false },
+      "evolution": { "chainId": 5, "isUnevolved": false, "isFullyEvolved": true },
+      "art": {
+        "preferred": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10034.png",
+        "variants": {}
+      },
+      "tags": {
+        "derived": ["type:fire", "type:dragon"],
+        "textDerived": [],
+        "curated": ["dragon", "powerful"]
+      },
+      "search": { "aliases": [] }
+    },
+
+    {
+      "key": "pikachu-gmax",
+      "dex": { "national": 25, "generation": 8 },
+      "names": { "default": "Pikachu Gmax" },
+      "species": { "key": "pikachu", "id": 25 },
+      "form": {
+        "type": "gmax",
+        "isRegional": false,
+        "region": null,
+        "isMega": false,
+        "megaOfSpeciesKey": null,
+        "isGmax": true,
+        "gmaxOfSpeciesKey": "pikachu"
+      },
+      "typing": { "types": ["electric"], "primary": "electric", "secondary": null },
+      "flags": { "isLegendary": false, "isMythical": false, "isBaby": false },
+      "evolution": { "chainId": 6, "isUnevolved": false, "isFullyEvolved": false },
+      "art": {
+        "preferred": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10199.png",
+        "variants": {}
+      },
+      "tags": {
+        "derived": ["type:electric"],
+        "textDerived": [],
+        "curated": ["cute", "mascot"]
+      },
+      "search": { "aliases": [] }
+    },
+
+    {
+      "key": "mewtwo",
+      "dex": { "national": 150, "generation": 1 },
+      "names": { "default": "Mewtwo" },
+      "species": { "key": "mewtwo", "id": 150 },
+      "form": {
+        "type": "base",
+        "isRegional": false,
+        "region": null,
+        "isMega": false,
+        "megaOfSpeciesKey": null,
+        "isGmax": false,
+        "gmaxOfSpeciesKey": null
+      },
+      "typing": { "types": ["psychic"], "primary": "psychic", "secondary": null },
+      "flags": { "isLegendary": true, "isMythical": false, "isBaby": false },
+      "evolution": { "chainId": 7, "isUnevolved": false, "isFullyEvolved": true },
+      "art": {
+        "preferred": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+        "variants": {}
+      },
+      "tags": {
+        "derived": ["type:psychic"],
+        "textDerived": [],
+        "curated": ["powerful", "psychic"]
+      },
+      "search": { "aliases": [] }
+    }
+  ]
+}

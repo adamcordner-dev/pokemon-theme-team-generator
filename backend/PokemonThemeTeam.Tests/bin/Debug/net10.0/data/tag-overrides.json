@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "overrides": {
+    "houndoom": ["canine", "spooky"],
+    "mimikyu": ["spooky", "creepy-cute"]
+  }
+}

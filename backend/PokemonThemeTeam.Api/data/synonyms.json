@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "synonyms": {
+    "spooky": ["ghost", "haunted", "eerie"],
+    "dog": ["canine", "hound", "wolf"]
+  }
+}
