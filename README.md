@@ -9,7 +9,7 @@ The project focuses on **intelligent theme interpretation, data enrichment, and 
 
 ## Project Summary
 
-Users enter a theme such as **“evil birds”**, **“cute witch”**, or **“moon squad”**, and the application generates a Pokémon team that matches the theme using:
+Users enter a theme such as **“cute witch”**, **“moon cat”**, or **“massive magic insect”**, and the application generates a Pokémon team that matches the theme using:
 
 - Synonym expansion  
 - Curated tags  
@@ -18,6 +18,8 @@ Users enter a theme such as **“evil birds”**, **“cute witch”**, or **“
 - User-configurable filters (generation, evolution stage, forms, etc.)
 
 The backend interprets the theme, enriches it with synonyms and curated rules, and returns a diverse, explainable team along with reasoning for each Pokémon selection.
+
+![Frontend overview](docs/frontend-overview.gif)
 
 ---
 
@@ -57,12 +59,12 @@ Features include:
 
 Example searches that return diverse but accurate teams:
 
-- *“evil birds”*
-- *“massive bugs”*
-- *“punching fighters”*
+- *“evil bird”*
 - *“cute witch”*
-- *“moon squad”*
-- *“furry monsters”*
+- *“moon cat”*
+- *“massive magic insect”*
+- *“haunted fairy doll”*
+- *“light frost monster”*
 
 ---
 
@@ -95,20 +97,27 @@ Example searches that return diverse but accurate teams:
 ## API Examples
 
 ### Successful Team Generation
-![API success screenshot](docs/api-success.png)
+![API success screenshot](docs/api-success-1a.PNG)
+![API success screenshot](docs/api-success-1b.PNG)
 
 ### Validation Error Example
-![API validation screenshot](docs/api-validation.png)
+![API validation screenshot](docs/api-validation-1a.PNG)
+![API validation screenshot](docs/api-validation-1b.PNG)
+![API validation screenshot](docs/api-validation-2a.PNG)
+![API validation screenshot](docs/api-validation-2b.PNG)
 
 ---
 
 ## Screenshots
 
 ### Main UI
-![UI main](docs/ui-main.png)
+![UI main](docs/ui-main.PNG)
 
 ### Generated Team
-![UI team](docs/ui-team.png)
+![UI team](docs/ui-team.PNG)
+
+### Responsive UI
+![UI team](docs/ui-responsive.PNG)
 
 ---
 
@@ -152,7 +161,7 @@ The project intentionally balances AI assistance with human decision-making and 
 
 ```
 git clone https://github.com/yourusername/pokemon-theme-team-generator.git
-cd pokemon-theme-team-generator
+cd ...\pokemon-theme-team-generator
 ```
 
 ---
@@ -170,7 +179,7 @@ dotnet run
 ### Frontend
 
 ```
-cd ../../frontend
+cd frontend
 npm install
 npm run dev
 ```
@@ -219,7 +228,7 @@ node tools/build-synonyms.mjs
 This script:
 - Expands base synonyms
 - Applies filters
-- Generates `synonyms.json`
+- Generates `synonyms.generated.json`
 
 > **Note:** The generated files are already committed for convenience.  
 > These scripts exist for transparency and reproducibility.
