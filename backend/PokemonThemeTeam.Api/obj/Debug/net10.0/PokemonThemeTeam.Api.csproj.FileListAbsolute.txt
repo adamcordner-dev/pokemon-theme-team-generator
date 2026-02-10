@@ -1,5 +1,12 @@
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\appsettings.Development.json
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\appsettings.json
+C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\data\curation-rules.json
+C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\data\enrichment-rules.json
+C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\data\pokemon.json
+C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\data\synonyms.generated.json
+C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\data\synonyms.json
+C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\data\tag-overrides.json
+C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\package.json
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\PokemonThemeTeam.Api.staticwebassets.endpoints.json
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\PokemonThemeTeam.Api.exe
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\PokemonThemeTeam.Api.deps.json
@@ -8,6 +15,9 @@ C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\PokemonThemeTeam.Api.pdb
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10.0\PokemonThemeTeam.Api.csproj.AssemblyReference.cache
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10.0\PokemonThemeTeam.Api.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,6 +26,7 @@ C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10.0\PokemonThemeTeam.Api.csproj.CoreCompileInputs.cache
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10.0\PokemonThemeTeam.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10.0\PokemonThemeTeam.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10.0\PokemonThemeTeam.Api.sourcelink.json
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -31,9 +42,3 @@ C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10.0\PokemonThemeTeam.Api.pdb
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10.0\PokemonThemeTeam.Api.genruntimeconfig.cache
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\obj\Debug\net10.0\ref\PokemonThemeTeam.Api.dll
-C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\data\pokemon.json
-C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\data\synonyms.json
-C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Api\bin\Debug\net10.0\data\tag-overrides.json

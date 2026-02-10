@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokemonThemeTeam.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d00ec7003c8f0f3d8e6be5aa94074090fd1a045")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokemonThemeTeam.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokemonThemeTeam.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

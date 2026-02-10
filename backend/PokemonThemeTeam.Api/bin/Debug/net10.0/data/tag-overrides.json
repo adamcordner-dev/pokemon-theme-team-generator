@@ -1,7 +1,35 @@
 {
   "version": 1,
   "overrides": {
-    "houndoom": ["canine", "spooky"],
-    "mimikyu": ["spooky", "creepy-cute"]
+
+    "mimikyu": ["creepy", "cute", "costume", "witch"],
+    "gengar": ["spooky", "trickster", "shadow"],
+    "umbreon": ["moon", "night", "shadow"],
+    "lunala": ["moon", "cosmic", "space"],
+    "clefairy": ["moon", "cute", "fairy"],
+    "absol": ["omen", "evil", "dark"],
+    "zoroark": ["trickster", "illusion", "furry"],
+    "lucario": ["hero", "fighter", "martial"],
+    "machamp": ["punch", "strong", "fighter"],
+    "hitmonchan": ["boxing", "punch"],
+    "hariyama": ["sumo", "strong"],
+    "snorlax": ["giant", "sleepy"],
+    "wailord": ["giant", "ocean"],
+    "corviknight": ["evil", "bird", "knight"],
+    "decidueye": ["archer", "bird", "shadow"],
+    "lycanroc": ["wolf", "dog", "furry"],
+    "arcanine": ["dog", "hero", "flame"],
+    "gardevoir": ["witch", "elegant", "magic"],
+    "banette": ["haunted", "spooky"],
+    "togekiss": ["angelic", "cute"],
+    "metagross": ["robot", "machine"],
+    "genesect": ["robot", "bug"],
+    "noivern": ["dragon", "bat", "night"],
+    "yveltal": ["evil", "bird", "death"],
+    "xerneas": ["mythical", "forest"],
+    "mewtwo": ["psychic", "legendary", "mind"],
+    "glaceon": ["ice", "cute"],
+    "flareon": ["fire", "cute"],
+    "leafeon": ["nature", "cute"]
   }
 }

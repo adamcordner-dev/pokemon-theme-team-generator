@@ -1,0 +1,992 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-09T20:33:59.188Z",
+  "source": "datamuse",
+  "synonyms": {
+    "forest": [
+      "timber",
+      "woods",
+      "timberland",
+      "wood",
+      "woodland"
+    ],
+    "nature": [
+      "wild",
+      "existence",
+      "macrocosm",
+      "world",
+      "creation",
+      "cosmos",
+      "universe"
+    ],
+    "wild": [
+      "frantic",
+      "chaotic",
+      "feral",
+      "disorderly",
+      "natural",
+      "mad",
+      "nature",
+      "desert",
+      "violent",
+      "barbarian"
+    ],
+    "leafy": [
+      "foliaceous",
+      "leafed",
+      "foliose",
+      "ivied",
+      "leaved",
+      "foliolate",
+      "bifoliate",
+      "foliaged",
+      "leaflike",
+      "ivy-covered"
+    ],
+    "toxic": [
+      "virulent",
+      "venomous",
+      "deadly",
+      "poisonous"
+    ],
+    "overgrown": [
+      "covered",
+      "wooded"
+    ],
+    "venom": [
+      "spite",
+      "malice",
+      "maliciousness",
+      "spitefulness"
+    ],
+    "acid": [
+      "caustic",
+      "bitter",
+      "blistering",
+      "lsd"
+    ],
+    "corrupt": [
+      "sordid",
+      "depraved",
+      "unscrupulous",
+      "dirty",
+      "perverted",
+      "crooked",
+      "immoral",
+      "putrid",
+      "vitiated",
+      "debased"
+    ],
+    "beast": [
+      "brute",
+      "creature",
+      "animal",
+      "wolf",
+      "wildcat",
+      "fauna",
+      "savage"
+    ],
+    "creature": [
+      "brute",
+      "beast",
+      "tool",
+      "animal",
+      "puppet",
+      "fauna",
+      "wight"
+    ],
+    "abomination": [
+      "abhorrence",
+      "odium",
+      "loathing",
+      "execration",
+      "detestation"
+    ],
+    "flame": [
+      "flare",
+      "fire",
+      "flaming"
+    ],
+    "heat": [
+      "passion",
+      "estrus",
+      "warmth",
+      "rut",
+      "oestrus",
+      "heating",
+      "hotness"
+    ],
+    "burning": [
+      "blazing",
+      "combustion",
+      "burn",
+      "flaming",
+      "electrocution",
+      "lit"
+    ],
+    "blaze": [
+      "glare",
+      "blazing",
+      "hell",
+      "brilliance"
+    ],
+    "inferno": [
+      "conflagration",
+      "perdition",
+      "hell"
+    ],
+    "rocky": [
+      "hard",
+      "rough",
+      "stony"
+    ],
+    "ocean": [
+      "sea"
+    ],
+    "peak": [
+      "flush",
+      "crest",
+      "point",
+      "prime",
+      "high",
+      "efflorescence",
+      "pinnacle",
+      "crown",
+      "vertex",
+      "blossom"
+    ],
+    "cliff": [
+      "drop-off"
+    ],
+    "sea": [
+      "ocean"
+    ],
+    "marine": [
+      "aquatic",
+      "leatherneck",
+      "saltwater"
+    ],
+    "deep": [
+      "esoteric",
+      "profound",
+      "inscrutable",
+      "cryptic",
+      "heavy",
+      "broad",
+      "recondite",
+      "rich",
+      "thick",
+      "incomprehensible"
+    ],
+    "wave": [
+      "flourish",
+      "flap",
+      "undulation",
+      "beckon",
+      "curl",
+      "brandish",
+      "wafture",
+      "waving"
+    ],
+    "shell": [
+      "case",
+      "blast",
+      "scale",
+      "carapace",
+      "plate",
+      "pod",
+      "strafe",
+      "casing",
+      "eggshell"
+    ],
+    "small": [
+      "mean",
+      "diminutive",
+      "soft",
+      "moderate",
+      "fine",
+      "bantam",
+      "slender",
+      "insignificant",
+      "puny",
+      "inferior"
+    ],
+    "armored": [
+      "equipped",
+      "panoplied",
+      "scaled",
+      "bulletproof",
+      "mailed",
+      "armoured",
+      "armour-plated",
+      "armor-plated",
+      "armor-clad",
+      "steel-plated"
+    ],
+    "swarm": [
+      "stream",
+      "horde",
+      "drove",
+      "pour"
+    ],
+    "little": [
+      "mean",
+      "trivial",
+      "diminutive",
+      "soft",
+      "fine",
+      "short",
+      "bantam",
+      "slender",
+      "insignificant",
+      "puny"
+    ],
+    "insect": [
+      "louse",
+      "worm"
+    ],
+    "colony": [
+      "mandate",
+      "territory",
+      "settlement",
+      "dominion",
+      "province"
+    ],
+    "woods": [
+      "forest",
+      "wood"
+    ],
+    "sky": [
+      "pitch",
+      "toss",
+      "flip"
+    ],
+    "bird": [
+      "snort",
+      "wench",
+      "dame",
+      "hiss",
+      "skirt",
+      "doll",
+      "fowl",
+      "hoot",
+      "chick",
+      "boo"
+    ],
+    "air": [
+      "zephyr",
+      "strain",
+      "beam",
+      "line",
+      "bare",
+      "open",
+      "atmosphere",
+      "breeze",
+      "broadcast",
+      "send"
+    ],
+    "winged": [
+      "pinioned",
+      "alary",
+      "alated",
+      "aliform",
+      "brachypterous",
+      "winglike",
+      "short-winged",
+      "wing-shaped"
+    ],
+    "soaring": [
+      "lofty",
+      "high",
+      "glide",
+      "moving",
+      "towering",
+      "gliding",
+      "sailing",
+      "sailplaning"
+    ],
+    "simple": [
+      "naive",
+      "naif",
+      "common",
+      "elegant",
+      "plain",
+      "bare",
+      "primitive",
+      "ordinary",
+      "pure",
+      "easy"
+    ],
+    "everyday": [
+      "mundane",
+      "familiar",
+      "quotidian",
+      "ordinary",
+      "casual",
+      "regular",
+      "routine",
+      "day-to-day",
+      "workaday",
+      "daily"
+    ],
+    "plain": [
+      "stark",
+      "manifest",
+      "severe",
+      "evidently",
+      "field",
+      "pure",
+      "general",
+      "simple",
+      "kvetch",
+      "obviously"
+    ],
+    "feathered": [
+      "adorned",
+      "decorated",
+      "fledged",
+      "plumed",
+      "plumose",
+      "plumy",
+      "vaned",
+      "featherlike",
+      "plumate",
+      "plumaged"
+    ],
+    "flock": [
+      "slew",
+      "cluster",
+      "clump",
+      "spate",
+      "mass",
+      "pile",
+      "deal",
+      "mint",
+      "batch",
+      "peck"
+    ],
+    "serpent": [
+      "ophidian",
+      "snake"
+    ],
+    "slither": [
+      "slide"
+    ],
+    "reptile": [
+      "reptilian"
+    ],
+    "massive": [
+      "heavy",
+      "large",
+      "big",
+      "solid"
+    ],
+    "colossal": [
+      "prodigious",
+      "stupendous"
+    ],
+    "titan": [
+      "behemoth",
+      "colossus",
+      "heavyweight",
+      "giant"
+    ],
+    "thunder": [
+      "boom",
+      "roar",
+      "roaring"
+    ],
+    "charged": [
+      "effervescent",
+      "live",
+      "supercharged",
+      "aerated"
+    ],
+    "spark": [
+      "light",
+      "glint",
+      "discharge",
+      "trip",
+      "flicker",
+      "sparkle",
+      "arc",
+      "trigger"
+    ],
+    "earth": [
+      "world",
+      "ground",
+      "land",
+      "globe"
+    ],
+    "sand": [
+      "grit",
+      "gumption",
+      "backbone",
+      "guts",
+      "sandpaper"
+    ],
+    "desert": [
+      "wild",
+      "lurch",
+      "defect",
+      "abandon",
+      "waste"
+    ],
+    "burrow": [
+      "tunnel"
+    ],
+    "cute": [
+      "attractive",
+      "precious",
+      "artful",
+      "cunning",
+      "adorable",
+      "lovable",
+      "sexy",
+      "loveable",
+      "handsome",
+      "good-looking"
+    ],
+    "magic": [
+      "wizard",
+      "supernatural",
+      "legerdemain",
+      "charming",
+      "illusion",
+      "deception",
+      "trick",
+      "sorcery",
+      "wizardry",
+      "spell"
+    ],
+    "fantasy": [
+      "phantasy",
+      "fancy",
+      "illusion",
+      "imaginary",
+      "figment",
+      "imagination",
+      "fantastic",
+      "vision",
+      "daydream",
+      "dreaming"
+    ],
+    "adorable": [
+      "lovable"
+    ],
+    "charming": [
+      "supernatural",
+      "pleasing",
+      "wizard",
+      "magic"
+    ],
+    "whimsical": [
+      "capricious"
+    ],
+    "sweet": [
+      "saccharine",
+      "fresh",
+      "pleasing",
+      "confection",
+      "musical",
+      "angelic",
+      "sweetly",
+      "confectionery",
+      "sweetness",
+      "sugariness"
+    ],
+    "tiny": [
+      "diminutive",
+      "bantam",
+      "little",
+      "small",
+      "midget",
+      "lilliputian",
+      "petite"
+    ],
+    "precious": [
+      "valuable",
+      "preciously"
+    ],
+    "fighter": [
+      "belligerent",
+      "paladin",
+      "champion",
+      "combatant",
+      "scrapper",
+      "battler",
+      "hero"
+    ],
+    "bug": [
+      "tease",
+      "badger",
+      "harass",
+      "pester",
+      "intercept",
+      "glitch",
+      "hemipteran",
+      "microbe",
+      "wiretap",
+      "hemipteron"
+    ],
+    "feline": [
+      "felid"
+    ],
+    "kitty": [
+      "pussy",
+      "puss",
+      "pot",
+      "pool",
+      "kitten",
+      "pussycat",
+      "kitty-cat",
+      "jackpot"
+    ],
+    "panther": [
+      "catamount",
+      "puma",
+      "cougar",
+      "jaguar",
+      "painter"
+    ],
+    "dive": [
+      "plunge",
+      "plunk",
+      "diving",
+      "honkytonk"
+    ],
+    "splash": [
+      "squelch",
+      "swash",
+      "slosh",
+      "spatter",
+      "sprinkle",
+      "dab",
+      "plash",
+      "splatter",
+      "slop",
+      "slush"
+    ],
+    "punch": [
+      "plug",
+      "biff",
+      "lick"
+    ],
+    "kick": [
+      "flush",
+      "recoil",
+      "charge",
+      "bang",
+      "plain",
+      "thrill",
+      "gripe",
+      "kvetch",
+      "rush",
+      "squawk"
+    ],
+    "martial": [
+      "military"
+    ],
+    "mind": [
+      "idea",
+      "head",
+      "nous",
+      "judgment",
+      "heed",
+      "worry",
+      "brain",
+      "intellect",
+      "judgement",
+      "listen"
+    ],
+    "mystic": [
+      "esoteric",
+      "secret",
+      "occult",
+      "occultist",
+      "religious",
+      "mystique",
+      "mystery",
+      "swami",
+      "mustique",
+      "warriors"
+    ],
+    "witch": [
+      "glamour",
+      "hex",
+      "beldam",
+      "jinx",
+      "beldame",
+      "enchantress",
+      "hag",
+      "enchant",
+      "crone"
+    ],
+    "wizard": [
+      "adept",
+      "maven",
+      "virtuoso",
+      "charming",
+      "sensation",
+      "ace",
+      "genius",
+      "sorcerer",
+      "magic",
+      "whiz"
+    ],
+    "stone": [
+      "gem",
+      "gemstone",
+      "colored",
+      "hailstone",
+      "pit",
+      "rock"
+    ],
+    "mountain": [
+      "mount"
+    ],
+    "boulder": [
+      "bowlder"
+    ],
+    "robot": [
+      "automaton",
+      "golem"
+    ],
+    "machine": [
+      "automobile",
+      "car",
+      "auto",
+      "motorcar"
+    ],
+    "metal": [
+      "metallic"
+    ],
+    "android": [
+      "humanoid"
+    ],
+    "mechanical": [
+      "mechanic",
+      "automatic",
+      "nonhuman"
+    ],
+    "aquatic": [
+      "marine",
+      "underwater",
+      "submersed",
+      "saltwater"
+    ],
+    "swimmer": [
+      "bather",
+      "natator"
+    ],
+    "cold": [
+      "bleak",
+      "insensate",
+      "cool",
+      "crisp",
+      "dead",
+      "raw",
+      "stale",
+      "old",
+      "unconscious",
+      "perfect"
+    ],
+    "frost": [
+      "rime",
+      "hoarfrost",
+      "freeze",
+      "ice",
+      "icing",
+      "hoar"
+    ],
+    "winter": [
+      "wintertime"
+    ],
+    "spooky": [
+      "terror",
+      "horrifying",
+      "terrifying",
+      "fear",
+      "ghastly",
+      "horrible",
+      "frightful",
+      "terrible",
+      "dreadful",
+      "frightening"
+    ],
+    "haunted": [
+      "ghostly",
+      "tormented",
+      "spectral",
+      "cursed",
+      "spooked",
+      "obsessed",
+      "perplexed",
+      "stalked",
+      "troubled",
+      "filled"
+    ],
+    "frozen": [
+      "frigid",
+      "fixed",
+      "rooted",
+      "wintry",
+      "preserved",
+      "stock-still",
+      "sleety",
+      "icebound",
+      "frostbitten",
+      "unmelted"
+    ],
+    "creepy": [
+      "alarming"
+    ],
+    "eerie": [
+      "strange",
+      "unusual",
+      "unnatural"
+    ],
+    "spectral": [
+      "phantasmal",
+      "ghostly",
+      "apparitional",
+      "ghostlike"
+    ],
+    "enigmatic": [
+      "ambiguous",
+      "oracular",
+      "enigmatical",
+      "uncomprehensible"
+    ],
+    "unknown": [
+      "transcendent",
+      "strange",
+      "unfamiliar",
+      "stranger",
+      "nameless",
+      "unknowable",
+      "alien",
+      "anonymous"
+    ],
+    "secret": [
+      "esoteric",
+      "occult",
+      "privy",
+      "mystery",
+      "private",
+      "arcanum",
+      "hugger-mugger",
+      "closet",
+      "inward",
+      "undercover"
+    ],
+    "ice": [
+      "frost",
+      "frappe",
+      "icing",
+      "frosting"
+    ],
+    "chill": [
+      "cool",
+      "frisson",
+      "quiver",
+      "thrill",
+      "pall",
+      "shudder",
+      "tingle",
+      "chilly",
+      "shivering",
+      "gelidity"
+    ],
+    "epic": [
+      "large",
+      "big",
+      "heroic",
+      "epos",
+      "epical"
+    ],
+    "ancient": [
+      "antique",
+      "old",
+      "past"
+    ],
+    "mythical": [
+      "unreal",
+      "fabulous",
+      "mythic",
+      "mythological",
+      "mythologic"
+    ],
+    "legendary": [
+      "known"
+    ],
+    "hopper": [
+      "hop-picker"
+    ],
+    "bright": [
+      "light",
+      "clear",
+      "vivid",
+      "intelligent",
+      "dazzling",
+      "brilliant",
+      "radiant",
+      "blazing",
+      "happy",
+      "beaming"
+    ],
+    "evil": [
+      "iniquity",
+      "black",
+      "dark",
+      "infernal",
+      "vicious",
+      "bad",
+      "malefic",
+      "despicable",
+      "ugly",
+      "wickedness"
+    ],
+    "day": [
+      "daylight",
+      "daytime"
+    ],
+    "villain": [
+      "scoundrel"
+    ],
+    "shadow": [
+      "vestige",
+      "trace",
+      "phantom",
+      "dark",
+      "apparition",
+      "tail",
+      "darkness",
+      "dwarf",
+      "shade"
+    ],
+    "sinister": [
+      "baleful",
+      "wicked",
+      "minatory",
+      "ominous",
+      "alarming",
+      "minacious"
+    ],
+    "menacing": [
+      "forbidding",
+      "ugly",
+      "threatening"
+    ],
+    "rogue": [
+      "varlet",
+      "rascal",
+      "knave",
+      "rapscallion",
+      "scallywag",
+      "scalawag"
+    ],
+    "soar": [
+      "surge",
+      "zoom",
+      "sailplane"
+    ],
+    "hover": [
+      "brood",
+      "loom",
+      "linger"
+    ],
+    "glide": [
+      "gliding",
+      "soaring",
+      "sailing",
+      "semivowel",
+      "sailplaning",
+      "slide"
+    ],
+    "stealth": [
+      "stealing"
+    ],
+    "wolf": [
+      "beast",
+      "savage",
+      "brute",
+      "wildcat",
+      "masher"
+    ],
+    "canine": [
+      "canid",
+      "dogtooth",
+      "cuspid",
+      "eyetooth"
+    ],
+    "assassin": [
+      "bravo"
+    ],
+    "hound": [
+      "dog",
+      "hunt",
+      "heel",
+      "trace",
+      "bounder"
+    ],
+    "puppy": [
+      "pup"
+    ],
+    "pack": [
+      "ring",
+      "coterie",
+      "carry",
+      "compact",
+      "take",
+      "clique",
+      "throng",
+      "multitude",
+      "pile",
+      "camp"
+    ],
+    "dry": [
+      "wry",
+      "plain",
+      "solid",
+      "thirsty",
+      "teetotal",
+      "dry-shod",
+      "sec",
+      "prohibitionist",
+      "alcoholic",
+      "sear"
+    ],
+    "powerful": [
+      "cogent",
+      "puissant",
+      "brawny",
+      "herculean",
+      "coercive",
+      "muscular",
+      "reigning",
+      "powered",
+      "all-powerful",
+      "knock-down"
+    ],
+    "mighty": [
+      "right"
+    ],
+    "brutal": [
+      "rigorous",
+      "barbarous",
+      "roughshod",
+      "inhumane",
+      "unkind"
+    ],
+    "night": [
+      "dark",
+      "nighttime",
+      "nox"
+    ],
+    "crescent": [
+      "lunate",
+      "semilunar"
+    ]
+  }
+}

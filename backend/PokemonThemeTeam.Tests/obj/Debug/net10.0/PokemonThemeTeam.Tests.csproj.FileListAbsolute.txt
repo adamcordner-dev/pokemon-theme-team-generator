@@ -112,3 +112,8 @@ C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Tests\obj\Debug\net
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Tests\obj\Debug\net10.0\PokemonThemeTeam.Tests.pdb
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Tests\obj\Debug\net10.0\PokemonThemeTeam.Tests.genruntimeconfig.cache
 C:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Tests\obj\Debug\net10.0\ref\PokemonThemeTeam.Tests.dll
+c:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Tests\bin\Debug\net10.0\data\curation-rules.json
+c:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Tests\bin\Debug\net10.0\data\enrichment-rules.json
+c:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Tests\bin\Debug\net10.0\data\synonyms.generated.json
+c:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Tests\bin\Debug\net10.0\package.json
+c:\dev\pokemon-theme-team-generator\backend\PokemonThemeTeam.Tests\obj\Debug\net10.0\PokemonThemeTeam.Tests.sourcelink.json

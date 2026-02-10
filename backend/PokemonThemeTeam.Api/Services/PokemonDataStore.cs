@@ -2,8 +2,7 @@ using System.Text.Json;
 
 namespace PokemonThemeTeam.Api.Services;
 
-// Loads pokemon + synonyms + overrides from local JSON files.
-// Keeping this as a service makes it easy to swap to a DB later if we add “saved teams”.
+// Loads pokemon + synonyms + overrides from local JSON files
 public sealed class PokemonDataStore
 {
     public IReadOnlyList<PokemonEntry> Pokemon { get; }
@@ -12,7 +11,6 @@ public sealed class PokemonDataStore
 
     public PokemonDataStore(IWebHostEnvironment env)
     {
-        // ContentRootPath points at the project folder when running locally
         var dataDir = Path.Combine(env.ContentRootPath, "data");
 
         Pokemon = LoadJson<PokemonRoot>(Path.Combine(dataDir, "pokemon.json")).Pokemon;
@@ -23,9 +21,11 @@ public sealed class PokemonDataStore
     private static T LoadJson<T>(string path)
     {
         if (!File.Exists(path))
+        {
             throw new FileNotFoundException($"Missing required data file: {path}");
+        }
 
-        var json = File.ReadAllText(path);
+        string json = File.ReadAllText(path);
         var obj = JsonSerializer.Deserialize<T>(json, new JsonSerializerOptions
         {
             PropertyNameCaseInsensitive = true

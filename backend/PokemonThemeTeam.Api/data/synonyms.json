@@ -1,7 +1,43 @@
 {
   "version": 1,
   "synonyms": {
-    "spooky": ["ghost", "haunted", "eerie"],
-    "dog": ["canine", "hound", "wolf"]
+
+    "evil": ["villain", "sinister", "dark", "malevolent", "wicked", "ominous", "shadow", "corrupt"],
+    "hero": ["champion", "protector", "guardian", "brave", "noble"],
+    "cute": ["adorable", "sweet", "lovely", "charming", "precious"],
+    "cool": ["stylish", "slick", "edgy", "rad"],
+    "spooky": ["eerie", "creepy", "haunted", "ghostly", "ominous"],
+    "witch": ["magic", "sorcery", "mystic", "spell", "arcane"],
+    "moon": ["lunar", "night", "crescent", "moonlight"],
+    "sun": ["solar", "radiant", "bright", "daylight"],
+    "star": ["cosmic", "celestial", "astral"],
+    "space": ["galaxy", "nebula", "cosmic", "void"],
+
+    "furry": ["fluffy", "fur", "beast", "animal", "mammal"],
+    "monster": ["creature", "beast", "fiend"],
+    "bird": ["avian", "owl", "hawk", "eagle", "crow", "raven"],
+    "dog": ["canine", "hound", "wolf", "fox", "puppy"],
+    "cat": ["feline", "kitten", "lion"],
+    "bug": ["insect", "beetle", "moth", "ant"],
+    "fish": ["aquatic", "ocean", "sea"],
+    "snake": ["serpent", "viper"],
+    "dragon": ["wyrm", "drake"],
+    "robot": ["machine", "metal", "android", "cyber"],
+
+    "punch": ["boxing", "fighter", "martial", "combat", "brawl"],
+    "kick": ["strike", "martial", "fighter"],
+    "giant": ["huge", "massive", "colossal", "titanic"],
+    "small": ["tiny", "mini", "little"],
+    "fast": ["speedy", "swift", "quick"],
+    "strong": ["powerful", "mighty", "buff"],
+    "magic": ["mystic", "arcane", "spell", "enchanted"],
+
+    "red": ["crimson", "scarlet", "ruby"],
+    "blue": ["azure", "cobalt"],
+    "green": ["emerald", "lime"],
+    "black": ["shadow", "midnight"],
+    "white": ["ivory", "pale"],
+    "purple": ["violet", "amethyst"],
+    "pink": ["rose", "magenta"]
   }
 }

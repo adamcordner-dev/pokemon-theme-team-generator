@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "containsAny": {
+    "bird": ["bird", "avian", "owl", "hawk", "eagle", "crow", "raven"],
+    "dog": ["dog", "canine", "wolf", "hound", "fox"],
+    "cat": ["cat", "feline", "lion"],
+    "bug": ["bug", "insect", "beetle", "moth"],
+    "fish": ["fish", "ocean", "sea"],
+    "dragon": ["dragon", "wyrm", "drake"],
+    "ghost": ["ghost", "spirit", "phantom"],
+    "robot": ["robot", "machine", "metal"],
+    "furry": ["fur", "fluffy", "beast"],
+    "punch": ["punch", "boxing", "martial"],
+    "moon": ["moon", "lunar"],
+    "witch": ["witch", "magic", "spell"]
+  },
+  "implies": {
+    "ghost": ["spooky", "haunted"],
+    "dragon": ["epic", "mythical"],
+    "moon": ["night"],
+    "furry": ["animal"],
+    "robot": ["steel"],
+    "punch": ["fighter"],
+    "witch": ["magic"]
+  }
+}
