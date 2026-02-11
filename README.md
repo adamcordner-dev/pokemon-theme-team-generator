@@ -161,7 +161,7 @@ The project intentionally balances AI assistance with human decision-making and 
 
 ```
 git clone https://github.com/yourusername/pokemon-theme-team-generator.git
-cd ...\pokemon-theme-team-generator
+cd pokemon-theme-team-generator
 ```
 
 ---
@@ -169,7 +169,7 @@ cd ...\pokemon-theme-team-generator
 ### Backend
 
 ```
-cd backend/PokemonThemeTeam.Api
+cd backend\PokemonThemeTeam.Api
 dotnet restore
 dotnet run
 ```
