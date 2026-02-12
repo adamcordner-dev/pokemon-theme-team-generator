@@ -7,7 +7,6 @@ dist/
 
 # Local environment variables
 .env
-.env.*
 
 # VSCode settings (only keep extensions.json)
 .vscode/*

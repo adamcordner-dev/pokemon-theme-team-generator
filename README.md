@@ -181,10 +181,25 @@ dotnet run
 ```
 cd frontend
 npm install
+```
+
+#### Frontend environment variables
+
+Before starting the frontend, set up the environment file:
+
+1. From the `frontend` folder, copy the example file:
+  - Windows: `copy .env.example .env`
+  - macOS/Linux: `cp .env.example .env`
+2. Open `.env` and set:
+  - `VITE_API_BASE_URL=http://localhost:5173` (or the URL shown when you run the backend)
+
+Without this, the frontend will fail to load and show an error that `VITE_API_BASE_URL` is not set.
+
+```
 npm run dev
 ```
 
-Open: `http://localhost:5173`
+Open: `http://localhost:5173` (or the URL shown when you run the frontend)
 
 ---
 
